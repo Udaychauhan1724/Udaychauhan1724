@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and Data analytics
 - 🌱 I’m currently learning ML algos and computer vision techniques | Java programming and Django framework
 - 💞️ I’m looking to collaborate on Machine Learning projects, especially those involving image processing, pose detection, and optimization
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/uday-chauhan-160237292) | [Email](udaychauhan.1724@gmail.com)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/uday-chauhan-160237292) | **Email** : udaychauhan.1724@gmail.com
 - 🤝 Would love to connect!
 - ### 🏆 My Holopin Badges
 
