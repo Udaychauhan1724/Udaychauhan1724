@@ -8,7 +8,6 @@
 
 [![Holopin Badges](https://holopin.me/udaychauhan1724)](https://holopin.io/@udaychauhan1724)
 
-![](https://komarev.com/ghpvc/?username=Udaychauhan1724&color=green)
 <!---
 Udaychauhan1724/Udaychauhan1724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
