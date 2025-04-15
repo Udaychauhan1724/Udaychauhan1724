@@ -1,7 +1,6 @@
 - 👋 Hi there, I’m Uday Chauhan
 - 👀 I’m interested in Machine learning and Data analytics
-- 🌱 I’m currently learning ML algos and computer vision techniques | Java programming and Django framework
-- 💞️ I’m looking to collaborate on Machine Learning projects, especially those involving image processing, pose detection, and optimization
+- 🌱 I’m currently learning ML algos and computer vision techniques | Java programming, SQL and Flask
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/uday-chauhan-160237292) | [Kaggle](https://www.kaggle.com/udaychauhan04) | **Email** : udaychauhan.1724@gmail.com
 - 🤝 Would love to connect!
 - ### 🏆 My Holopin Badges
